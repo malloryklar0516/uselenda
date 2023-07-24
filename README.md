@@ -1,16 +1,26 @@
 # Module 1 challenge 1: Code Refactoring for Web Accessbility
 
 In this challenge, I implemented the following user story:
-* As a marketing agency I want a codebase that follows accessibility so that our own site is optimized for search engines
+
+- As a marketing agency I want a codebase that follows accessibility so that our own site is optimized for search engines
 
 # Acceptance Criteria
-* It's done when I view the source code and then I find semantic HTML elements
-* It's done when I view the structure of the HTML elements and then I find that the elements follow a logical structure independent of styling and positioning
-* It's done when I view the image elements and then I find accessible alt attributes
-* It's done when  I view the heading attributes and then they fall in sequential order
-* It's done whe I view the title element and then I find a concise, descriptive title
 
-# License 
+- It's done when I view the source code and then I find semantic HTML elements
+- It's done when I view the structure of the HTML elements and then I find that the elements follow a logical structure independent of styling and positioning
+- It's done when I view the image elements and then I find accessible alt attributes
+- It's done when I view the heading attributes and then they fall in sequential order
+- It's done whe I view the title element and then I find a concise, descriptive title
+
+# Deployment
+
+The website should look like this image saved here -> assets/images/website.png
+
+The link to my deployed github application is below
+https://malloryklar0516.github.io/uselenda/
+
+# License
+
 MIT License
 
 Copyright (c) 2023 Mallory Klar
